@@ -4,7 +4,7 @@
   "description": "This is a website for the fictional campsites review site NuCamp.",
   "main": "index.html",
   "scripts": {
-    "lite": "lit-server",
+    "lite": "lite-server",
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elahoda/My-First-BootStrap-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elahoda/My-First-BootStrap-Project/issues"
+  },
+  "homepage": "https://github.com/elahoda/My-First-BootStrap-Project#readme"
 }
